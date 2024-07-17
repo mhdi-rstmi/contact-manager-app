@@ -1,0 +1,21 @@
+body {
+  /* background: rgb(80, 68, 84);
+  background: linear-gradient(
+    11deg,
+    rgba(80, 68, 84, 1) 0%,
+    rgba(117, 70, 134, 1) 11%,
+    rgba(92, 79, 98, 1) 25%,
+    rgba(104, 80, 126, 1) 41%,
+    rgba(54, 105, 108, 1) 57%,
+    rgba(88, 88, 122, 1) 72%,
+    rgba(83, 81, 107, 1) 81%,
+    rgba(44, 40, 52, 1) 99%
+  );
+  height: 1000px; */
+  background-image: url("../img/pngggg.png");
+  font-family: "Vazir" !important;
+}
+.Toastify__toast-body {
+  font-family: "Vazir" !important;
+  
+}

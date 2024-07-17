@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "fullname": "علی رضایی",
+      "photo": "https://toplearn.com/img/user/teachers/1485_691bfe64-c650-436c-ae70-050126856e1e_%D8%B9%D9%84%DB%8C_%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C.png",
+      "mobaile": 98850099997,
+      "email": "AliRezai@gmail.com",
+      "job": "مدرس و برنامه نویس",
+      "group": "4",
+      "id": 2
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
